@@ -98,3 +98,18 @@ Processing by StaticPagesController#index as HTML
 Completed 200 OK in 32ms (Views: 28.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/assets/application.self-e07172500d188ffc49a434d251e8ae46b38113501d269cd9fee1cb2c6ed24590.css?body=1&livereload=1503520176683" for ::1 at 2017-08-23 13:29:36 -0700
+Started GET "/assets/application.self-e07172500d188ffc49a434d251e8ae46b38113501d269cd9fee1cb2c6ed24590.css?body=1&livereload=1503520176686" for ::1 at 2017-08-23 13:29:36 -0700
+Started GET "/" for ::1 at 2017-08-23 13:29:40 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 30ms (Views: 28.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-56926cebf36b0622f761628cdddcd50160541d1e93fce95f87e39ab5c2901e63.css?body=1" for ::1 at 2017-08-23 13:29:40 -0700
